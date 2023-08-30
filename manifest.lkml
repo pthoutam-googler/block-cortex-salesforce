@@ -1,3 +1,4 @@
+# Please change the connection values before deploying to production
 
 constant: CONNECTION_NAME {
   value: "qa-thjennifer3"
